@@ -1,0 +1,17 @@
+p {
+  font-size: 50px;
+}
+h1 {
+  font-size: 60px;
+}
+body {
+  background-color: grey;
+}
+.block {
+  background-color: grey;
+  display: block;
+  width: auto;
+  border: 2px solid white;
+  font-size: 50px;
+  cursor: pointer;
+}
